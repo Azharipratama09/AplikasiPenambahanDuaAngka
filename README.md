@@ -71,8 +71,8 @@ saat mendapatkan fokus.
 | :-: | --------------   |   :-----:    |
 |  1  | Komponen GUI     |    20    |
 |  2  | Logika Program   |    20    |
-|  3  | Kesesuaian UI    |    15    |
-|  4  | Constructor      |    15    |
+|  3  | Event    |    15    |
+|  4  | Kesesuaian UI      |    15    |
 |  5  | Memenuhi Variasi |    30    |
 |     | TOTAL        | 100 |
 
